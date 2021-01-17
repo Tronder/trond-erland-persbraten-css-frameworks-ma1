@@ -1,0 +1,16 @@
+nav {
+  background: $background-color;
+}
+
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
+.nav-link {
+  font-family: 'Archivo', sans-serif;
+  font-size: 18px;
+}
+
+.active a {
+  color: blue;
+}
